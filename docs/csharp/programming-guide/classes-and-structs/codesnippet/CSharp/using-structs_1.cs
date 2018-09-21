@@ -1,4 +1,4 @@
-    public struct CoOrds
+    public struct Coords
     {
         public int x, y;
 
